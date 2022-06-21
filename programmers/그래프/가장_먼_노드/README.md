@@ -25,3 +25,5 @@ n|vertex|return
 **입출력 예 설명**
 
 예제의 그래프를 표현하면 아래 그림과 같고, 1번 노드에서 가장 멀리 떨어진 노드는 4,5,6번 노드입니다.
+
+![image](https://user-images.githubusercontent.com/61952198/174818338-6ff79218-f149-4066-ab97-48db17a60269.png)
