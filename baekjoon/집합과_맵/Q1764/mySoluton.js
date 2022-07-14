@@ -23,5 +23,5 @@ const filePath = process.platform === 'linux' ? '/dev/stdin' : './input.txt';
     }
 
     console.log(answer);
-    console.log(answerList.join('\n'));
+    console.log(answerList.sort().join("\n"));
 }());
